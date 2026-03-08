@@ -3,7 +3,7 @@
 ## Contexte métier
 Un client souhaite analyser les salaires moyens par secteur d'activité 
 dans l'État de New York. Contrainte explicite : pas de dashboard, 
-pas de sheets séparées — tout doit tenir sur une seule feuille, 
+pas de sheets séparées - tout doit tenir sur une seule feuille, 
 avec des graphiques accessibles au survol de la carte.
 
 ## Problématiques
@@ -20,7 +20,7 @@ avec des graphiques accessibles au survol de la carte.
 
 ## Compétences mobilisées
 - Tooltips enrichis avec worksheets intégrées
-- Cartographie choroplèthe
+- Cartographie choroplèthe (carte où les zones sont colorées selon une valeur - comme ici, plus le salaire est élevé, plus le county est foncé)
 - Série temporelle
 - Visualisation multi-niveaux sur une seule sheet
 
